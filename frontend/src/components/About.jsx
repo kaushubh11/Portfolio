@@ -53,12 +53,6 @@ const About = () => {
                     <div className="absolute bottom-0 left-0 w-80 h-80 bg-gradient-to-tr from-[#87B6A7]/20 via-[#E3F09B]/10 to-transparent blur-[140px] rounded-full pointer-events-none" />
 
                     <div className="relative z-10">
-                        {/* Section Header */}
-                        <div className="flex items-center gap-3 mb-6">
-                            <span className="text-xs font-mono tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-[#F79F79] via-[#F7D08A] to-[#87B6A7] uppercase font-bold">
-                                // 01 BACKGROUND & CAREER OBJECTIVE
-                            </span>
-                        </div>
 
                         <h2 className="text-3xl sm:text-5xl font-extrabold uppercase text-white mb-8 tracking-tight leading-tight">
                             Building Scalable Applications, <br />

@@ -54,9 +54,6 @@ const Contact = () => {
                     transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
                     className="text-center mb-16"
                 >
-                    <span className="text-xs font-mono tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-[#ACD2ED] via-[#E1E289] to-[#99AA38] uppercase block mb-3 font-bold">
-                        // 05 DIRECT TRANSMISSION
-                    </span>
                     <h2 className="text-4xl sm:text-5xl md:text-6xl font-extrabold uppercase tracking-tight text-white mb-4">
                         Let's Start a <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ACD2ED] via-[#E1E289] to-[#99AA38]">Conversation</span>
                     </h2>

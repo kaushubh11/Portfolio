@@ -35,9 +35,6 @@ const JourneySection = () => {
                     className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center"
                 >
                     <div className="lg:col-span-5 space-y-4">
-                        <span className="text-xs font-mono tracking-widest text-[#ACD2ED] uppercase font-bold">
-                            // 01 DISCOVERY & PERFORMANCE
-                        </span>
                         <h3 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
                             Engineered For Precision
                         </h3>
@@ -135,9 +132,6 @@ const JourneySection = () => {
                     </div>
 
                     <div className="lg:col-span-5 order-1 lg:order-2 space-y-4">
-                        <span className="text-xs font-mono tracking-widest text-[#99AA38] uppercase font-bold">
-                            // 02 CONVERSION & COLLABORATION
-                        </span>
                         <h3 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
                             Turning Vision Into Reality
                         </h3>
@@ -156,9 +150,6 @@ const JourneySection = () => {
                     className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center"
                 >
                     <div className="lg:col-span-5 space-y-4">
-                        <span className="text-xs font-mono tracking-widest text-[#E1E289] uppercase font-bold">
-                            // 03 COMPOUNDING METRICS
-                        </span>
                         <h3 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
                             Measurable Velocity
                         </h3>
