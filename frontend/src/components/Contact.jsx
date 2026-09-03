@@ -144,7 +144,7 @@ const Contact = () => {
                                     <span>Kaushubh11</span>
                                 </a>
                                 <a
-                                    href="https://linkedin.com"
+                                    href="https://www.linkedin.com/in/kaushubh-chaudhary-265535317/"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="flex-1 flex items-center justify-center gap-2 py-3 rounded-2xl bg-white/[0.04] border border-white/10 text-xs font-semibold text-white hover:bg-white/10 hover:border-[#E1E289]/40 transition-all"

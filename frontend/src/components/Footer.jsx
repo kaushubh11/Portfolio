@@ -29,7 +29,7 @@ const Footer = () => {
                         <Github size={16} />
                     </a>
                     <a
-                        href="https://linkedin.com"
+                        href="https://www.linkedin.com/in/kaushubh-chaudhary-265535317/"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="LinkedIn"

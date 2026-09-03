@@ -12,7 +12,7 @@ const SOCIAL_LINKS = [
     },
     {
         name: 'LinkedIn',
-        href: 'https://linkedin.com',
+        href: 'https://www.linkedin.com/in/kaushubh-chaudhary-265535317/',
         icon: Linkedin,
         color: 'hover:text-[#E1E289] hover:border-[#E1E289]/40',
         glow: 'hover:shadow-[0_0_15px_rgba(225,226,137,0.35)]',
