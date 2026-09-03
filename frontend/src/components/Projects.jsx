@@ -172,7 +172,7 @@ const Projects = () => {
                         tech={["Java", "CSS3", "SQL"]}
                         features={["OOP Architecture", "Admin Dashboard", "Booking Engine", "Route Management"]}
                         glowColor="bg-[#ACD2ED]/25"
-                        links={{ github: "https://github.com/Kaushubh11", demo: "#" }}
+                        links={{ github: "https://github.com/Kaushubh11", demo: "https://expedition77-production.up.railway.app/" }}
                         mediaPreview={(
                             <div className="space-y-3">
                                 {/* Browser Chrome Header */}
@@ -183,11 +183,11 @@ const Projects = () => {
                                         <span className="w-2.5 h-2.5 rounded-full bg-[#ACD2ED]" />
                                         <span className="text-[10px] font-mono text-neutral-400 ml-2 flex items-center gap-1">
                                             <Compass size={11} className="text-[#ACD2ED]" />
-                                            expedition77.nepal/routes/annapurna-circuit
+                                            expedition77-production.up.railway.app
                                         </span>
                                     </div>
                                     <span className="text-[10px] font-mono text-[#E1E289] px-2 py-0.5 rounded bg-[#E1E289]/10 border border-[#E1E289]/20">
-                                        Active Instance
+                                        Live on Railway
                                     </span>
                                 </div>
 
